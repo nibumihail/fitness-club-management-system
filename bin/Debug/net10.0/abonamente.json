@@ -1,0 +1,11 @@
+[
+  {
+    "Id": "e0f43966-2428-419f-bef8-584deba6fb50",
+    "ClientId": "c1faa908-a67a-44e9-831d-30540223fccd",
+    "NumeServiciu": "Netflix",
+    "NumePlan": "Premium",
+    "DataStart": "2026-01-15T15:23:08.9670258+02:00",
+    "DataExpirare": "2026-03-16T15:23:08.9684389+02:00",
+    "EsteActiv": false
+  }
+]

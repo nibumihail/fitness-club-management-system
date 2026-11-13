@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "762c1957-58df-4ba5-b232-c6eab2648d43",
+    "NumeUtilizator": "admin",
+    "Parola": "admin",
+    "Tip": 0
+  },
+  {
+    "Id": "c1faa908-a67a-44e9-831d-30540223fccd",
+    "NumeUtilizator": "client",
+    "Parola": "client",
+    "Tip": 1
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "94163a41-3884-440b-a1f4-aa41f45b6167",
+    "Nume": "Netflix",
+    "Descriere": "Filme,Seriale si Jocuri",
+    "Categorie": "Entertainment",
+    "Planuri": [
+      {
+        "Nume": "Premium",
+        "Pret": 55,
+        "DurataZile": 30,
+        "Beneficii": "Acces Standard"
+      }
+    ]
+  }
+]
